@@ -6,6 +6,10 @@ rice
 
 fish
 
+meat
+
+gnunts
+
 
 
 
